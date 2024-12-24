@@ -1,0 +1,8 @@
+echo "Commands used to upload changes to GitHub:" > fouad.txt
+echo "git init" >> fouad.txt
+echo "git add ." >> fouad.txt
+echo "git commit -m 'Initial commit'" >> fouad.txt
+echo "git branch -M main" >> fouad.txt
+echo "git remote add origin https://github.com/fouadMashni/team-repo.git" >> fouad.txt
+echo "git push -u origin main" >> fouad.txt
+ 
